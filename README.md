@@ -11,5 +11,5 @@ This analysis explores:
 * Vehicle involvement trends
 
 # Dataset
-Source: Nashville Open Data Portal: [Traffic Accidents](https://data.nashville.gov/datasets/Nashville::traffic-accidents/about)--
+Source: Nashville Open Data Portal: [Traffic Accidents](https://data.nashville.gov/datasets/Nashville::traffic-accidents/about) <br/>
 Years included: 2018 - 2024
