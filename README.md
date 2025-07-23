@@ -1,6 +1,6 @@
 # Nashville Traffic Accident Data Analysis
 
-This project analyzes traffic accident data from Nashville to uncover trends, insights, and potential safety concerns. It aims to support public understanding, identify risk factors, and offer data-driven recommendations for improving road safety.
+This project analyzes traffic accident data from Nashville to uncover trends, insights, and potential safety concerns. It aims to support public understanding and identify risk factors related to road safety.
 
 # Project Overview
 This analysis explores:
