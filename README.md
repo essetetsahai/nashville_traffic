@@ -12,4 +12,4 @@ This analysis explores:
 
 # Dataset
 Source: Nashville Open Data Portal: [Traffic Accidents](https://data.nashville.gov/datasets/Nashville::traffic-accidents/about) <br/>
-Years included: 2018 - 2024
+Time covered in analysis: Jan 2018 - Apr 2025
